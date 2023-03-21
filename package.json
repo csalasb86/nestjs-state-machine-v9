@@ -66,6 +66,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/depthlabs-io/nestjs-state-machine"
-  }
+    "url": "git+https://github.com/csalasb86/nestjs-state-machine-v9.git"
+  },
+  "bugs": {
+    "url": "https://github.com/csalasb86/nestjs-state-machine-v9/issues"
+  },
+  "homepage": "https://github.com/csalasb86/nestjs-state-machine-v9#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "keywords": [
+    "fsm"
+  ]
 }
