@@ -1,10 +1,10 @@
 {
-  "name": "@depthlabs/nestjs-state-machine",
-  "version": "0.0.2",
+  "name": "@csalasb86/nestjs-state-machine-v9",
+  "version": "0.0.5",
   "description": "Finite State Machine for Nestjs framework",
   "author": "Tomasz Felczyk",
   "license": "MIT",
-  "url": "https://github.com/depthlabs-io/nestjs-state-machine",
+  "url": "https://github.com/csalasb86/nestjs-state-machine-v9",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "engines": {
